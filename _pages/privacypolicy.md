@@ -5,56 +5,51 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+October 26 2023
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Thank you for using RepKeeper. We are committed to protecting your personal information and your right to privacy. 
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more genereally, user any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal infromation. We store out own workout information in RepKeeper, just as you do. 
+
+This document outlines our stance on privacy for RepKeeper. We encoutage you to read this document carefully. 
+
+**If there are any conditions that you do not agree with, please discountinue use of the Services.** 
 
 <br>
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+### 1.1 Personal Data and your RepKeeper Account
+- You are required to provide basic personal information such as Name (Optional) and Email Address in order to create a RepKeeper Account.
+- We encourage you to use your primary email to sign up for RepKeeper to ensure your continued access to your data.
+- You can also use third party login such as Sign With Apple or Google.
+- If you lose access to your email or third party login, you will lose access to your RepKeeper count. We cannoy restore or change email addresses for security reasons. 
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### 1.2 Your Workout Data 
+RepKeeper is a workout tracking app and platform. You enter your Workout Data (consisisting of training information such as workout activity data, exercises performed, body measurements etc.) into RepKeeper. We conside this to be your data. 
 
-<br>
+### 1.3 Customer Support 
+If your message or contact us for support purposes, you may communicate personally identifiable information to us (such as your email address and debug information) in the process.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We retain support emails in order to improve customer service. 
 
 <br>
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 2.0 Data Processing
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+### 2.1 Location
+We store user information on servers located in the United States and other countries. This means that information may be processed, stored, and used outside of the country in which you are located.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+If you provide Personal Data through the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to servers in other locations.
+
+### 2.2 Data Retention
+We retain your data indefinitely in order to provide the Services. However, you can request deletion of your data at any time by contacting us through the app.
+
+### 2.3 Closing Your Account
+You can close your RepKeeper Account at any time. To close your RepKeeper Account, click Delete Account within the settings page of the app.
 
 <br>
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 3.0 Changes to this Policy
+This polict replaces all previous policies. We reserve the right to change this policy at any time.
