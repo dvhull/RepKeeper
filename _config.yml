@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Graphs / Analytics
     description                           : Comprehensive Graphs and Analytical Tools to ensure you're echieving results at the gym.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : sort
     
   - title                                 : Expertly Created Plans
     description                           : Evidence-based workout routines designed by experts.
