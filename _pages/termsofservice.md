@@ -1,13 +1,13 @@
 ---
 layout: page
-title: RepKeeper Terms Of Service
+title: Terms Of Service
 include_in_header: false
 ---
 
 **Last updated**  
 October 26 2023
 
-# Terms of Service
+# RepKeeper Terms of Service
 These **Terms and Conditions** ("**Terms**", "**Terms and Conditions**") govern your relationship with **RepKeeper** software application and associated services (the "**App**", "**RepKeeper**","**Services**") operated by **RepKeeper**. ("**us**","**we**", or "**our**").
 
 Please read these Terms and Conditions carefully before using any of our services.
