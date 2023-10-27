@@ -10,11 +10,11 @@ October 26 2023
 # Privacy Policy
 Thank you for using RepKeeper. We are committed to protecting your personal information and your right to privacy. 
 
-When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more genereally, user any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal infromation. We store out own workout information in RepKeeper, just as you do. 
+When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more generally, user any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal information. We store our own workout information in RepKeeper, just as you do. 
 
-This document outlines our stance on privacy for RepKeeper. We encoutage you to read this document carefully. 
+This document outlines our stance on privacy for RepKeeper. We encourage you to read this document carefully. 
 
-**If there are any conditions that you do not agree with, please discountinue use of the Services.** 
+**If there are any conditions that you do not agree with, please discontinue use of the Services.** 
 
 <br>
 
@@ -23,14 +23,14 @@ This document outlines our stance on privacy for RepKeeper. We encoutage you to 
 ### Personal Data and your RepKeeper Account
 - You are required to provide basic personal information such as Name (Optional) and Email Address in order to create a RepKeeper Account.
 - We encourage you to use your primary email to sign up for RepKeeper to ensure your continued access to your data.
-- You can also use third party login such as Sign With Apple or Google.
-- If you lose access to your email or third party login, you will lose access to your RepKeeper count. We cannoy restore or change email addresses for security reasons. 
+- You can also use third-party login such as Sign With Apple or Google.
+- If you lose access to your email or third party login, you will lose access to your RepKeeper count. We cannot restore or change email addresses for security reasons. 
 
 ### Your Workout Data 
-RepKeeper is a workout tracking app and platform. You enter your Workout Data (consisisting of training information such as workout activity data, exercises performed, body measurements etc.) into RepKeeper. We conside this to be your data. 
+RepKeeper is a workout-tracking app and platform. You enter your Workout Data (consisting of training information such as workout activity data, exercises performed, body measurements etc.) into RepKeeper. We consider this to be your data. 
 
 ### Customer Support 
-If your message or contact us for support purposes, you may communicate personally identifiable information to us (such as your email address and debug information) in the process.
+If you message or contact us for support purposes, you may communicate personally identifiable information to us (such as your email address and debug information) in the process.
 
 We retain support emails in order to improve customer service. 
 
