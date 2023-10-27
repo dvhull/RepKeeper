@@ -10,7 +10,7 @@ October 26 2023
 # Privacy Policy
 Thank you for using RepKeeper. We are committed to protecting your personal information and your right to privacy. 
 
-When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more generally, user any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal information. We store our own workout information in RepKeeper, just as you do. 
+When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more generally, when you use any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal information. We store our own workout information in RepKeeper, just as you do. 
 
 This document outlines our stance on privacy for RepKeeper. We encourage you to read this document carefully. 
 
@@ -23,14 +23,14 @@ This document outlines our stance on privacy for RepKeeper. We encourage you to 
 ### Personal Data and your RepKeeper Account
 - You are required to provide basic personal information such as Name (Optional) and Email Address in order to create a RepKeeper Account.
 - We encourage you to use your primary email to sign up for RepKeeper to ensure your continued access to your data.
-- You can also use third-party login such as Sign With Apple or Google.
-- If you lose access to your email or third party login, you will lose access to your RepKeeper count. We cannot restore or change email addresses for security reasons. 
+- You can also use a third-party login such as Sign With Apple or Google.
+- If you lose access to your email or third-party login, you will lose access to your RepKeeper account. We cannot restore or change email addresses for security reasons. 
 
 ### Your Workout Data 
 RepKeeper is a workout-tracking app and platform. You enter your Workout Data (consisting of training information such as workout activity data, exercises performed, body measurements etc.) into RepKeeper. We consider this to be your data. 
 
 ### Customer Support 
-If you message or contact us for support purposes, you may communicate personally identifiable information to us (such as your email address and debug information) in the process.
+If you message or contact us for support purposes, you may communicate personal identifiable information to us (such as your email address and debug information) in the process.
 
 We retain support emails in order to improve customer service. 
 
@@ -47,7 +47,7 @@ If you provide Personal Data through the Services, you acknowledge and agree tha
 We retain your data indefinitely in order to provide the Services. However, you can request deletion of your data at any time by contacting us through the app.
 
 ## Children
-Repkeeper does not knowingly collect Personal Data from children under the age of 13 and do not target our services to children under 13. If you are under 13, please do not submit any Personal Data through the Services. 
+Repkeeper does not knowingly collect Personal Data from children under the age of 13 and does not target our services to children under 13. If you are under 13, please do not submit any Personal Data through the Services. 
 
 We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data through any of our Services. If you have reason to believe that a child under the age of 13 has provided Personal Data to us, please contact us, and we will discontinue the provision of services accordingly. 
 
