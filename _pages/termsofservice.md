@@ -1,60 +1,75 @@
 ---
 layout: page
-title: Terms Of Service
+title: RepKeeper Terms Of Service
 include_in_header: false
 ---
 
 **Last updated**  
 October 26 2023
 
-# Privacy Policy
-Thank you for using RepKeeper. We are committed to protecting your personal information and your right to privacy. 
+# Terms of Service
+These **Terms and Conditions** ("**Terms**", "**Terms and Conditions**") govern your relationship with **RepKeeper** software application and associated services (the "**App**", "**RepKeeper**","**Services**") operated by **RepKeeper**. ("**us**","**we**", or "**our**").
 
-When you visit our website (the " **Website**"), use our mobile application (the "**App**", "**RepKeeper**") and more genereally, user any of our services (the "**Services**", which include the Website and App), we appreciate that you are trusting us with your personal infromation. We store out own workout information in RepKeeper, just as you do. 
+Please read these Terms and Conditions carefully before using any of our services.
 
-This document outlines our stance on privacy for RepKeeper. We encoutage you to read this document carefully. 
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
-**If there are any conditions that you do not agree with, please discountinue use of the Services.** 
-
-<br>
-
-## Information We Collect
-
-### Personal Data and your RepKeeper Account
-- You are required to provide basic personal information such as Name (Optional) and Email Address in order to create a RepKeeper Account.
-- We encourage you to use your primary email to sign up for RepKeeper to ensure your continued access to your data.
-- You can also use third party login such as Sign With Apple or Google.
-- If you lose access to your email or third party login, you will lose access to your RepKeeper count. We cannoy restore or change email addresses for security reasons. 
-
-### Your Workout Data 
-RepKeeper is a workout tracking app and platform. You enter your Workout Data (consisisting of training information such as workout activity data, exercises performed, body measurements etc.) into RepKeeper. We conside this to be your data. 
-
-### Customer Support 
-If your message or contact us for support purposes, you may communicate personally identifiable information to us (such as your email address and debug information) in the process.
-
-We retain support emails in order to improve customer service. 
+**By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.**
 
 <br>
 
-## Data Processing
+## User Content
+RepKeeper allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (" Content"). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
 
-### Location
-We store user information on servers located in the United States and other countries. This means that information may be processed, stored, and used outside of the country in which you are located.
+By posting Content to the Service, you grant us the right and license to use, modify, perform, display, reproduce, and distribute such Content on and through the Service. You retain any and all of your rights to any Content you submit, post or display on or through the Service and you are responsible for protecting those rights.
 
-If you provide Personal Data through the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to servers in other locations.
+You represent and warrant that: (i) the Content is yours (you own it) or you have the right to use it and grant us the rights and license as provided in these Terms, and (ii) the posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person.
 
-### Data Retention
-We retain your data indefinitely in order to provide the Services. However, you can request deletion of your data at any time by contacting us through the app.
 
-## Children
-Repkeeper does not knowingly collect Personal Data from children under the age of 13 and do not target our services to children under 13. If you are under 13, please do not submit any Personal Data through the Services. 
+## Intellectual Property
 
-We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Data through any of our Services. If you have reason to believe that a child under the age of 13 has provided Personal Data to us, please contact us, and we will discontinue the provision of services accordingly. 
+The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of RepKeeper and its licensors. The Service is protected by copyright, trademark, and other laws of both Canada and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of RepKeeper.
 
-### Closing Your Account
-You can close your RepKeeper Account at any time. To close your RepKeeper Account, click Delete Account within the settings page of the app.
+## Links To Other Websites
+
+Our Service may contain links to third-party web sites or services that are not owned or controlled by RepKeeper..
+
+RepKeeper has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Repkeeper. shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+
+## Termination
+
+We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+
+Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service, or contact us.
+
+
+## Limitation Of Liability
+
+In no event shall RepKeeper, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+
+## Your Health
+
+Use of RepKeeper and all related services is at your own risk. You agree that RepKeeper is not providing Medical Advice via the services.
+Before using the services, if you have knowledge of any pre-existing medical conditions, please seek medical advice from a doctor.
+You expressly agree that any exercise activity performed or tracked using RepKeeper carry inherent risks of injury or death and you assume all known and unknown risks associated with any exercise activity even if caused in whole or part by the action, inaction or negligence of RepKeeper or others, including other RepKeeper users.
+RepKeeper shall not be held liable for any damages, indirect or direct, related to or resulting from any use of the services, including injury or death.
+
+
+## Disclaimer
+
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+RepKeeper its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+
+## Governing Law
+
+These Terms shall be governed and construed in accordance with the laws of Canada,, without regard to its conflict of law provisions.
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
 
 <br>
 
 ## Changes to this Policy
-This policy replaces all previous policies. We reserve the right to change this policy at any time.
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
