@@ -37,28 +37,28 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Graphs / Analytics
-    description                           : Detailed Graphs and Analytics to make sure your making progress in the gym.
-    fontawesome_icon_name                 : magic
+    description                           : Comprehensive Graphs and Analytical Tools to ensure you're echieving results at the gym.
+    fontawesome_icon_name                 : chart-simple
     
-  - title                                 : Expertly Created
-    description                           : Science-backed exercise plans created by experience lifters.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Expertly Created Plans
+    description                           : Evidence-based workout routines designed by experts.
+    fontawesome_icon_name                 : lightbulb
 
   - title                                 : Automatic Rest Timer
-    description                           : Automatic rest timer when each set is complete. 
-    fontawesome_icon_name                 : play-circle
+    description                           : An automatic rest timer that initiated when each set in complete. 
+    fontawesome_icon_name                 : clock
 
   - title                                 : Customized Plans
-    description                           : Detailed in app customly generated plans for your fitness goals. 
-    fontawesome_icon_name                 : sync
+    description                           : In-app personalized plans meticulously generated to match your fitness objectives.  
+    fontawesome_icon_name                 : note-sticky
 
   - title                                 : Detailed Video Instructions
-    description                           : Detailed video and written instructions for over 100 exercises.
-    fontawesome_icon_name                 : adjust
+    description                           : Detailed video and written guidance more than 100 exercises.
+    fontawesome_icon_name                 : video
   
   - title                                 : Fast Tracking
-    description                           : App is built for speed. Easily edit weight and reps from previous workout sessions.
-    fontawesome_icon_name                 : star
+    description                           : App is optimized for speed, making it effortless to modift weight and repitions during your workout sessions.
+    fontawesome_icon_name                 : truck-fast
 
 
 # Theme Settings
