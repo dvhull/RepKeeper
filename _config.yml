@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Let us help you unlock your full fitness potential.
+app_description                           : Let us help you reach your fitness goals faster.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Graphs / Analytics
-    description                           : Comprehensive Graphs and Analytical Tools to ensure you're echieving results at the gym.
+    description                           : Comprehensive Graphs and Analytical Tools to ensure you're achieving results at the gym.
     fontawesome_icon_name                 : sort
     
   - title                                 : Expertly Created Plans
@@ -45,7 +45,7 @@ features                                  :
     fontawesome_icon_name                 : lightbulb
 
   - title                                 : Automatic Rest Timer
-    description                           : An automatic rest timer that initiated when each set in complete. 
+    description                           : An automatic rest timer that's initiated when each set is complete. 
     fontawesome_icon_name                 : clock
 
   - title                                 : Customized Plans
@@ -53,11 +53,11 @@ features                                  :
     fontawesome_icon_name                 : envelope
 
   - title                                 : Detailed Video Instructions
-    description                           : Detailed video and written guidance more than 100 exercises.
+    description                           : Detailed video and written guidance for more than 100 exercises.
     fontawesome_icon_name                 : video
   
   - title                                 : Fast Tracking
-    description                           : App is optimized for speed, making it effortless to modify weight and repitions during your workout sessions.
+    description                           : App is optimized for speed, making it effortless to modify weight and repetitions during your workout sessions.
     fontawesome_icon_name                 : bolt
 
 
