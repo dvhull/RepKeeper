@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 26 2023
+December 27 2023
 
 # RepKeeper Terms of Service
 These **Terms and Conditions** ("**Terms**", "**Terms and Conditions**") govern your relationship with **RepKeeper** software application and associated services (the "**App**", "**RepKeeper**","**Services**") operated by **RepKeeper**. ("**us**","**we**", or "**our**").
@@ -66,6 +66,22 @@ RepKeeper and its subsidiaries, affiliates, and its licensors do not warrant tha
 These Terms shall be governed and construed in accordance with the laws of Canada,, without regard to its conflict of law provisions.
 
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+
+## Free Trial 
+
+RepKeeper may, at its sole discreetion, offer a Subscription with a Free Trial for a limited period of time. 
+
+You may be required to enter your billing information in order to sign up for the Free Trial. 
+
+If you do enter your billing information when signing up for a Free Trial, Your will not be charged by the Company until the Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected. 
+
+At any time and without notice, RepKeeper reserves the right to (i) modift the terms of conditions of the Free Trial offer, or (ii) cancel such Free Trial offer. 
+
+## Subscription 
+
+Some parts of Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance recurring and periodic basis (such as daily, weekly, monthly or anually), depending on the type of Subscription plan you select when purchasing the Subscription.
+
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it at least 24 hours prior to the renewal date. You can cancel anytime with your iTunes/Google Play account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Except when required by law, paid Subscription fees are non-refundable.
 
 <br>
 
